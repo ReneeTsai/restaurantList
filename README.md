@@ -49,14 +49,20 @@ cd restaurantList
 ```
 npm install
 ```
+4.終端機輸入指令安裝 express
 
-4.終端機輸入指令開啟伺服器，看見 " Listening on http://localhost:3000 " 代表成功
+```
+npm i express
+```
+
+
+5.終端機輸入指令開啟伺服器，看見 " Listening on http://localhost:3000 " 代表成功
 
 ```
 nodemon app.js
 ```
 
-5.開啟任意瀏覽器輸入網址進入網頁
+6.開啟任意瀏覽器輸入網址進入網頁
 
 ```
 http://localhost:3000
